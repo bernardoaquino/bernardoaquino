@@ -3,23 +3,23 @@
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1odTlwejlvOWZ0ZXg3OWcwNHY2NnB4cXQ2MW15aHF5cGw1bmxsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="230" />
 <p><em>Software Engineering Student / Back-End Developer </em>
 
-<h4> I'm currently learning: </h4>
+<h4> I'm currently working with:</h4>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 <h4> Here are some projects that I'm working on: </h4>
 
   - [Personal blog](https://github.com/bernardoaquino/bernardoaquino.github.io)
-  - [Java Basics](https://github.com/bernardoaquino/study-java-basics)
+ <!-- - [Java Basics](https://github.com/bernardoaquino/study-java-basics)
   - [TODO List API](https://github.com/bernardoaquino/todo-list-api)
   - [Learning Go](https://github.com/bernardoaquino/learning-go)
-  - [TabNews Clone](https://github.com/bernardoaquino/clone-tabnews)
+  - [TabNews Clone](https://github.com/bernardoaquino/clone-tabnews) -->
 
 <p align="right"><a href="https://bernardoaquino.tech/">➡️ My Website</a></p>
 <!-- <p align="right">
